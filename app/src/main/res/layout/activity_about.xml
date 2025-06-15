@@ -22,7 +22,7 @@
         android:id="@+id/tvFullName"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Full Name: [Your Full Name]"
+        android:text="Muhammad Fareez Bin Mohd Fuad Teoh"
         android:textSize="18sp"
         android:layout_marginBottom="8dp"/>
 
@@ -30,7 +30,7 @@
         android:id="@+id/tvStudentID"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Student ID: [Your Student ID]"
+        android:text="Student ID: 2023149093"
         android:textSize="18sp"
         android:layout_marginBottom="8dp"/>
 
@@ -54,7 +54,7 @@
         android:id="@+id/tvCopyright"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="© 2025 [Your Full Name]. All rights reserved."
+        android:text="© 2025 Muhd Fareez. All rights reserved."
         android:textSize="14sp"
         android:textStyle="italic"
         android:layout_marginBottom="24dp"/>
@@ -63,7 +63,7 @@
         android:id="@+id/tvGitHubLink"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Visit my GitHub"
+        android:text="Visit my GitHub: https://github.com/povicetea/ElectricityBillEstimator"
         android:textSize="18sp"
         android:textColor="@android:color/holo_blue_light" android:autoLink="web"
         android:clickable="true"
